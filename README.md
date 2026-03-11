@@ -17,15 +17,18 @@ Place the script in the parent directory and the EVTX files inside a folder.
 
 Example structure:
 
+Example structure:
+
+
 parent-folder/
 │
 ├── converter2.py
 │
 └── evtx-folder/
-    ├── Security.evtx
-    ├── System.evtx
-    ├── Application.evtx
-    └── other_logs.evtx
+├── Security.evtx
+├── System.evtx
+├── Application.evtx
+└── other_logs.evtx
 
 ## Requirements
 
