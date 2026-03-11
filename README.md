@@ -17,9 +17,6 @@ Place the script in the parent directory and the EVTX files inside a folder.
 
 Example structure:
 
-Example structure:
-
-
 <details>
 <summary>Click to expand folder structure</summary>
 
