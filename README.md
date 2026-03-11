@@ -20,15 +20,22 @@ Example structure:
 Example structure:
 
 
+<details>
+<summary>Click to expand folder structure</summary>
+
+```
 parent-folder/
 │
 ├── converter2.py
 │
 └── evtx-folder/
-├── Security.evtx
-├── System.evtx
-├── Application.evtx
-└── other_logs.evtx
+    ├── Security.evtx
+    ├── System.evtx
+    ├── Application.evtx
+    └── other_logs.evtx
+```
+
+</details>
 
 ## Requirements
 
